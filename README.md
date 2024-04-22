@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKHARAM&layout=compact&theme=panda"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHARAM&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHARAM&show_icons=true&theme=dracula&count_private=true)
