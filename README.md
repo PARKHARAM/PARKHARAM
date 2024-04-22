@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKHARAM&layout=compact)](https://github.com/PARKHARAM/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHARAM)](https://github.com/PARKHARAM/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHARAM&show_icons=true&theme=dracula)
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKHARAM&layout=compact&theme=panda"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHARAM&show_icons=true&theme=dracula&count_private=true)
+
+
+[![Haram's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=PARKHARAM&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/PARKHARAM/github-readme-stats)
