@@ -20,8 +20,5 @@ Here are some ideas to get you started:
 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKHARAM&layout=compact&theme=panda"/>
 
+[![github stats](https://github-readme-stats.vercel.app/api?username=PARKHARAM&count_private=true)](https://github.com/PARKHARAM/)
 
-
-[![Haram's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=PARKHARAM&include_all_commits=true&show_icons=true&theme=cobalt)]
-(https://github.com/PARKHARAM/github-readme-stats)
