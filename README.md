@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PARKHARAM&layout=compact)](https://github.com/PARKHARAM/github-readme-stats)
-
+-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARKHARAM&layout=compact&theme=panda"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHARAM)](https://github.com/PARKHARAM/github-readme-stats)
