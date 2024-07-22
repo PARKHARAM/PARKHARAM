@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=PARKHARAM&count_private=true)](https://github.com/PARKHARAM/)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PARKHARAM&count_private=true)
