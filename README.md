@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=PARKHARAM&count_private=true)](https://github.com/PARKHARAM/)
 
-[![github stats](https:/github-readme-stats.iac-qg45on09z-parkharams-projects.vercel.app/api?username=PARKHARAM&count_private=true)](https://github.com/PARKHARAM/)
+[![github stats](https://iac-gcp-parkharams-projects.vercel.app/api?username=PARKHARAM&count_private=true)](https://github.com/PARKHARAM/)
 
