@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHARAM)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PARKHARAM&count_private=true)
 [![github stats](https://github-readme-stats-blue-phi.vercel.app/api?username=PARKHARAM&count_private=true)](https://github.com/PARKHARAM/)
 
